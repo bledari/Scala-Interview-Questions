@@ -16,8 +16,8 @@ This file contains a number of Scala interview questions that can be used when v
 ## Getting Involved
 
   1. [Contributors](#contributors)
-  1. [How to Contribute](https://github.com/jarlakxen/Scala-Interview-Questions/blob/master/CONTRIBUTING.md)
-  1. [License](https://github.com/jarlakxen/Scala-Interview-Questions/blob/master/LICENSE.md)
+  1. [How to Contribute](https://github.com/nicocavallo/Scala-Interview-Questions/blob/master/CONTRIBUTING.md)
+  1. [License](https://github.com/nicocavallo/Scala-Interview-Questions/blob/master/LICENSE.md)
 
 #### General Questions:
 
